@@ -1,11 +1,16 @@
+// 20181211210052
+// http://localhost:63342/bootstrapBoilerplate/docs/site.webmanifest?_ijt=f5jugnf5nn9aclfemblov1idtb
+
 {
   "short_name": "",
   "name": "",
-  "icons": [{
-    "src": "icon.png",
-    "type": "image/png",
-    "sizes": "192x192"
-  }],
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
   "start_url": "/?utm_source=homescreen",
   "background_color": "#fafafa",
   "theme_color": "#fafafa"
